@@ -27,3 +27,6 @@ Express.js: A minimalist Node.js web framework used to handle HTTP requests and 
 Socket.IO Server: Manages WebSocket connections and real-time data flow between users.
 
 JWT (JSON Web Tokens): For user authentication and secure access.
+
+OUTPUT 
+![Image](https://github.com/user-attachments/assets/219df643-7de4-42aa-9ed5-73408480564e)
